@@ -1,3 +1,4 @@
+<img src="screenshots/banner.png" width="700">
 # DC Career OS
 
 This repository tracks my journey toward becoming a Data Center Technician / Data Center Engineer.
