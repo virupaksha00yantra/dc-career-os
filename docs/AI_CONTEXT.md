@@ -10,18 +10,16 @@ Before helping with this project, read this file first.
 
 ## User Profile
 
-Name: Yashwanth / Virupaksha00Yantra
+Name: Yagya Virupaksh Verman
 
-Current goal:
+Online Identity:
 
-Become a Data Center Technician / Data Center Engineer.
+- GitHub: virupaksha00yantra
+- Engineering Alias: Virupaksha00Yantra
 
-Target:
+Current Goal:
 
-- Data Center Internship
-- Entry-level Data Center Technician role
-- NOC / Infrastructure role
-- Long-term Data Center Engineer path
+Become a professional Data Center Technician and progress into a Data Center Engineer specializing in Linux, virtualization, networking, automation, and infrastructure.
 
 Location:
 
